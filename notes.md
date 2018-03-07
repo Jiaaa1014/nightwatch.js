@@ -68,3 +68,32 @@ const utils = require('utils')
 ```json
 "test_settings": {/*  */}
 ```
+
+
+## 資料夾用途
+
+`lib`用來啟動driver以及server
+`log`工作日誌
+`page`放個utils.js整合重複的事情
+`report`xml檔
+`screenshots`嗯嗯嗯
+
+`tests`，來放一堆要測試的js檔案
+
+```
+├─lib
+├─log
+├─pages
+├─reports
+│  └─XMLReports
+│      ├─artsyjewels
+│      │  ├─casesSOP
+│      │  └─testcases
+│      └─examples
+├─screenshots
+└─tests
+    ├─artsyjewels
+    │  ├─casesSOP
+    │  └─simpleStream
+    └─examples
+```
