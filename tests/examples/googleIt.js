@@ -9,8 +9,10 @@ module.exports = {
       .assert.visible('input[type=text]')
       .setValue('input[type=text]', 'apple') // send values
       .click('button[name=btnG]') // click on search box
+
+
       .pause(2000)
-      .end();
+      .end()
 
   }
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="examples.openTwoWindows"
+    errors="0" failures="0" hostname="" id="" package="examples" skipped="0"
+    tests="1" time="16.88" timestamp="Wed, 07 Mar 2018 08:06:51 GMT">
+  
+    <testcase name="Open and Open" classname="examples.openTwoWindows" time="16.88" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

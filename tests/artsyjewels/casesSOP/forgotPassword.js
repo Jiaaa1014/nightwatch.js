@@ -1,4 +1,4 @@
-var utils = require('../../../pages/utils');
+const utils = require('../../../pages/utils');
 module.exports = {
   '@tags': ['forgotpassword'],
   before: function (browser) {
