@@ -3,17 +3,11 @@
             failures="0"
             tests="1">
 
-  <testsuite name="artsyjewels.case2"
+  <testsuite name="artsyjewels.case4"
     errors="0" failures="0" hostname="" id="" package="artsyjewels" skipped="0"
-    tests="1" time="10.50" timestamp="Wed, 07 Mar 2018 07:33:44 GMT">
+    tests="1" time="16.19" timestamp="Wed, 07 Mar 2018 07:35:47 GMT">
   
-    <testcase name="Search functionality is working" classname="artsyjewels.case2" time="10.50" assertions="4">
-
-    
-
-    
-
-    
+    <testcase name="Go to Login Page and existign user should login" classname="artsyjewels.case4" time="16.19" assertions="1">
 
     
     </testcase>
