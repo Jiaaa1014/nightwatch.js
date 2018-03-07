@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="tripleClick"
+    errors="0" failures="0" hostname="" id="" package="tripleClick" skipped="0"
+    tests="2" time="21.75" timestamp="Wed, 07 Mar 2018 07:50:08 GMT">
+  
+    <testcase name="go to click click " classname="tripleClick" time="16.58" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Browser quit" classname="tripleClick" time="5.167" assertions="0">
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
