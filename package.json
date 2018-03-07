@@ -1,0 +1,14 @@
+{
+  "name": "testrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.20"
+  }
+}
